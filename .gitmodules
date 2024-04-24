@@ -6,3 +6,9 @@
 [submodule "vendor/nim-chronos"]
 	path = vendor/nim-chronos
 	url = https://github.com/status-im/nim-chronos.git
+[submodule "vendor/nim-results"]
+	path = vendor/nim-results
+	url = https://github.com/arnetheduck/nim-results/
+[submodule "vendor/nim-stew"]
+	path = vendor/nim-stew
+	url = https://github.com/status-im/nim-stew/
